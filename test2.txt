@@ -1,0 +1,1 @@
+ git remote add origin SSH链接 表示建立本地库与想要操作的远程仓库的联系。
